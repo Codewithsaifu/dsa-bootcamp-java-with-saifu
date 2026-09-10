@@ -134,8 +134,8 @@ Fast revision material containing key concepts, self-checks, and the actual pred
 - [x] Detailed Documentation
 - [x] Record Mistakes
 - [x] Quick Revision
-- [ ] Git Review
-- [ ] Commit & Push
+- [x] Git Review
+- [x] Commit & Push
 
 ## Navigation
 
